@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "oxsobuj81@gmail.com",
-    "password": "01200120mahi",
+    "email": "ragag94164@acuxi.com",
+    "password": "kalababa0",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100081894480123", "100072881080249"],
+    "100081894480123", ""],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["100081894480123","100072881080249"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 乃卂几Ҝ卂| - 卂| ",
-  "prefix": "/",
+  "nickNameBot": " 𝘼𝙣𝙘𝙝𝙚𝙨𝙩𝙤𝙧 𝘼𝙞 ",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
