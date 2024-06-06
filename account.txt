@@ -1,1 +1,20 @@
-
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261556251596562%22%3A%22xNHMyl8l%22%2C%2261557579779658%22%3A%226MAjAmyF%22%2C%2261560536524984%22%3A%22A7yL9jEz%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-06-06T11:13:33.492Z",
+        "lastAccessed": "2024-06-06T11:13:33.492Z"
+    },
+    {
+        "key": "sb",
+        "value": "npDjZaSEikunvJTg0FN7agiY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-06T11:13:33.492Z",
+        "lastAccessed": "2024-06-06T11:13:33.492Z"
+    }
+]
